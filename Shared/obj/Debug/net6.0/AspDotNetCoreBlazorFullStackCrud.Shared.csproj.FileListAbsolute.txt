@@ -1,0 +1,12 @@
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\bin\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.deps.json
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\bin\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.dll
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\bin\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.pdb
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.csproj.AssemblyReference.cache
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.AssemblyInfoInputs.cache
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.AssemblyInfo.cs
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.csproj.CoreCompileInputs.cache
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.dll
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\refint\AspDotNetCoreBlazorFullStackCrud.Shared.dll
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\AspDotNetCoreBlazorFullStackCrud.Shared.pdb
+D:\C# Desk\AspDotNetCoreBlazorFullStackCrud\Shared\obj\Debug\net6.0\ref\AspDotNetCoreBlazorFullStackCrud.Shared.dll

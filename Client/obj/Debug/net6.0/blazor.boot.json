@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-8Ej3VOdrj8ijDcTS0\/1AEMpisaFDe3Nmj0Fbq5sfZEk=",
       "System.Private.CoreLib.dll": "sha256-tqFypIfntE2p16olQ2cI4rklqWNJqsPJvAoPSChg0H0=",
       "AspDotNetCoreBlazorFullStackCrud.Shared.dll": "sha256-GdpwBNGy3p1KaUarNfbFvKr1Y9y80g+UYe6mdUEXnvw=",
-      "AspDotNetCoreBlazorFullStackCrud.Client.dll": "sha256-LFd30R4BjPn2pQaC0VUq00TaY6v9+GxMQh0tYZElN7k="
+      "AspDotNetCoreBlazorFullStackCrud.Client.dll": "sha256-xK5k2RXIll\/OL4AeTp0tMcHb+hr7M8wZufs8whqfShU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "AspDotNetCoreBlazorFullStackCrud.Shared.pdb": "sha256-ElJGJbDJEFMpZftDthJA0D7FZ3fJ2rn0BRsM55Hscic=",
-      "AspDotNetCoreBlazorFullStackCrud.Client.pdb": "sha256-X+Hm0gvlURB0PMQDakaqbPtqx3W2xQK4XrwcDEj+Oto="
+      "AspDotNetCoreBlazorFullStackCrud.Client.pdb": "sha256-xIetW6mE1H5eE1FtkAwD0Y4WG7DbDcWS53IFNLA31zA="
     },
     "runtime": {
       "dotnet.6.0.18.grrs9shn8q.js": "sha256-Iww31ANFa3KZuR4RkhiSYt3FJ7PKpMdeFNq3l3Td1h8=",
